@@ -1,0 +1,35 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    border: none;  
+}
+
+
+body {
+    width: 90%;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+h1 {
+    font-size: 2em ;
+    text-align: center; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+footer {
+
+    font-size: 1em ;
+    text-align: center; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+form {
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+main.button {
+
+    text-align: center; 
+}
